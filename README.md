@@ -1,0 +1,19 @@
+Public-data empirical research, US macro and Treasury tooling, desktop utilities, and small games.
+
+## Selected projects
+
+- [keyferry](https://github.com/smkwray/keyferry): ESP32-S3 stick that acts as a USB keyboard and mouse or a Bluetooth keyboard, controlled from another computer.
+- [hearken](https://github.com/smkwray/hearken): Low-latency system-audio bridge between macOS and Windows over Tailscale or LAN.
+- [remrun](https://github.com/smkwray/remrun): Run a local project's command on another machine over SSH and pull changed outputs back.
+- [piswitch](https://github.com/smkwray/piswitch): Radial pie-menu app switcher for macOS and Windows.
+- [jobgauge](https://github.com/smkwray/jobgauge): Static US labor-market dashboard with an offline query CLI.
+- [fiscus](https://github.com/smkwray/fiscus): CLI and MCP server for US macro, Treasury, and financial data with curated units and local caching.
+- [tdcest](https://github.com/smkwray/tdcest): Measures the Treasury Deposit Component (TDC) from public US data.
+- [geoluck](https://github.com/smkwray/geoluck): How much of country prosperity geography predicts, with an interactive site.
+
+## Other work
+
+- **Macro modeling and Treasury research:** [fp-wraptr](https://github.com/smkwray/fp-wraptr), [bankcap](https://github.com/smkwray/bankcap), [bidbridge](https://github.com/smkwray/bidbridge), [buycurve](https://github.com/smkwray/buycurve), [ea-tdc](https://github.com/smkwray/ea-tdc), [liqsub](https://github.com/smkwray/liqsub), [offrun](https://github.com/smkwray/offrun), [qrawatch](https://github.com/smkwray/qrawatch), [regcap](https://github.com/smkwray/regcap), [rowflow](https://github.com/smkwray/rowflow), [slrwatch](https://github.com/smkwray/slrwatch), [tdc-hf](https://github.com/smkwray/tdc-hf), [tdcatlas](https://github.com/smkwray/tdcatlas), [tdcladder](https://github.com/smkwray/tdcladder), [tdcmix](https://github.com/smkwray/tdcmix), [tdcpass](https://github.com/smkwray/tdcpass), [tdcsim](https://github.com/smkwray/tdcsim), [tgarefill](https://github.com/smkwray/tgarefill), [tsyparty](https://github.com/smkwray/tsyparty), [wamest](https://github.com/smkwray/wamest)
+- **Research sites and data explorers:** [bankalm](https://github.com/smkwray/bankalm), [banknim](https://github.com/smkwray/banknim), [buildlag](https://github.com/smkwray/buildlag), [campusroi](https://github.com/smkwray/campusroi), [catwatch](https://github.com/smkwray/catwatch), [cogdiff](https://github.com/smkwray/cogdiff), [coordwatch](https://github.com/smkwray/coordwatch), [dadgap](https://github.com/smkwray/dadgap), [durshift](https://github.com/smkwray/durshift), [gatelate](https://github.com/smkwray/gatelate), [juryrig](https://github.com/smkwray/juryrig), [overkill](https://github.com/smkwray/overkill), [paygap](https://github.com/smkwray/paygap), [precrime](https://github.com/smkwray/precrime), [rentctrl](https://github.com/smkwray/rentctrl), [rootcause](https://github.com/smkwray/rootcause), [sexvary](https://github.com/smkwray/sexvary), [snapshot](https://github.com/smkwray/snapshot), [unpriced](https://github.com/smkwray/unpriced), [wellgap](https://github.com/smkwray/wellgap), [xchratlas](https://github.com/smkwray/xchratlas)
+- **Desktop, system and browser tools:** [litsync](https://github.com/smkwray/litsync), [magicmirror](https://github.com/smkwray/magicmirror), [meshelf](https://github.com/smkwray/meshelf), [rcsync](https://github.com/smkwray/rcsync), [readwatch](https://github.com/smkwray/readwatch), [shwdn2op](https://github.com/smkwray/shwdn2op), [SteepAwake](https://github.com/smkwray/SteepAwake), [summer](https://github.com/smkwray/summer), [tiddl-gui](https://github.com/smkwray/tiddl-gui)
+- **Games:** [lunardefense-p8](https://github.com/smkwray/lunardefense-p8), [roguewake-p8](https://github.com/smkwray/roguewake-p8)
